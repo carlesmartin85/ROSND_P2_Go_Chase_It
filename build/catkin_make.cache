@@ -1,0 +1,2 @@
+ball_chaser:my_robot:simple_arm
+-DCATKIN_DEVEL_PREFIX=/home/cmartin/Desktop/Udacity/Robotics/C2/P2/devel -DCMAKE_INSTALL_PREFIX=/home/cmartin/Desktop/Udacity/Robotics/C2/P2/install -G Unix Makefiles

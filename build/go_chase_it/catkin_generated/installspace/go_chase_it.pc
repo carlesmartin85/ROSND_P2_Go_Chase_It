@@ -1,0 +1,8 @@
+prefix=/home/cmartin/Desktop/Udacity/Robotics/C2/P2/install
+
+Name: go_chase_it
+Description: Description of go_chase_it
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
